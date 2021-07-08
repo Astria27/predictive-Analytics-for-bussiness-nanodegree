@@ -13,8 +13,8 @@ _Learn a structured framework for solving problems with advanced analytics. Lear
 
 _Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database._
 
-    Project: Data Cleanup
-    Project: Create Report from Database (SQL)
+   1. Project: Data Cleanup
+   2. Project: Create Report from Database (SQL)
 
 ## Part 3: Data Visualization in Tableau
 
