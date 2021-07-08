@@ -6,8 +6,8 @@ Astria NTELA
 
 _Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression._
 
-    * Project: Predicting Diamond Prices
-    * Project: Predicting Catalog Demand
+    1. Project: Predicting Diamond Prices
+    2. Project: Predicting Catalog Demand
     
 ## Part 2: Creating an Analytical Dataset by Alteryx
 
